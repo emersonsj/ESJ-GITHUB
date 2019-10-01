@@ -11,3 +11,10 @@ C:\Users\Emerson\Documents\Sistemas\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.c
 C:\Users\Emerson\Documents\Sistemas\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.csproj.CoreCompileInputs.cache
 C:\Users\Emerson\Documents\Sistemas\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.dll
 C:\Users\Emerson\Documents\Sistemas\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.pdb
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\bin\GetorAdmin.dll.config
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\bin\GetorAdmin.dll
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\bin\GetorAdmin.pdb
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.csprojAssemblyReference.cache
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.dll
+C:\Users\Emerson\Documents\Projetos\ESJ-GITHUB\GetorAdmin\GetorAdmin\obj\Debug\GetorAdmin.pdb
